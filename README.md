@@ -1,2 +1,2 @@
 # Hybrid_computer_v1
-Hybrid computer for study of nonlinear dynamic systems
+Hybrid computer for study of nonlinear dynamic systems. It was developed at Department of Radio Electronics, Brno University of Technology within the grant Development of analog computer with hybrid analog-digital components for accurate modeling of chaotic systems. This grant is realised within the project Quality Internal Grants of BUT (KInG BUT), Reg. No. CZ.02.2.69 / 0.0 / 0.0 / 19_073 / 0016948, which is financed from the OP RDE.
